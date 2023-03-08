@@ -1,6 +1,6 @@
 # Esgrove
 
-- Software developer based in [Helsinki](https://en.wikipedia.org/wiki/Helsinki), [Finland](https://en.wikipedia.org/wiki/Finland).
+- Software developer based in [Helsinki](https://en.wikipedia.org/wiki/Helsinki), [Finland](https://en.wikipedia.org/wiki/Finland)
 - Master's degree in Computer Science from [Aalto University](https://www.aalto.fi/en)
 - Software Consultant at [Nitor Creations](https://github.com/NitorCreations)
 
